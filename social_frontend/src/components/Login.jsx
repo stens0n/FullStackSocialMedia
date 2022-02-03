@@ -7,6 +7,17 @@ import logo from "../assets/logowhite.png";
 
 import { client } from '../client';
 
+
+// 
+ //// Login.js 
+ //// 
+ //// This is a function that returns a React component. 
+ //// 
+ //// It takes no parameters. 
+ //// 
+ //// It returns a React component that renders a login page. 
+ //// 
+ //// The login page consists of a video, 
 const Login = () => {
 
   const navigate = useNavigate();
